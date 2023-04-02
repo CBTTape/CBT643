@@ -1,0 +1,13 @@
+2023-04-03 01:38:46.492445 - Initialized conversion of CBT643
+2023-04-03 01:38:46.615082 - Received CBT.V504.FILE643.PDS from FILE643.XMI 
+2023-04-03 01:38:46.617909 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/$$$#DATE
+2023-04-03 01:38:46.619136 - Found $$$CPYRT.txt (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/$$$CPYRT
+2023-04-03 01:38:46.620207 - Found $$DOC.txt (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/$$DOC
+2023-04-03 01:38:46.621412 - Found $$MACDOC.txt (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/$$MACDOC
+2023-04-03 01:38:46.622704 - Found $ALTINST.jcl (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/$ALTINST
+2023-04-03 01:38:46.623752 - Found @FILE643.txt (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/@FILE643
+2023-04-03 01:38:46.625025 - Found CALENDAR.txt (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/CALENDAR
+2023-04-03 01:38:46.626332 - Found PSMUPDTE.jcl (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/PSMUPDTE
+2023-04-03 01:38:46.637876 - Found RUNLIB.xmi (application/xmit) in CBT.V504.FILE643.PDS
+2023-04-03 01:38:46.649807   - Received RECFM=U data, stored XMIT file as CBT643/RUNLIB.xmi
+2023-04-03 01:38:46.651212 - Found SRCLIB.txt (text/plain) in CBT.V504.FILE643.PDS, moved to PDS/SRCLIB

@@ -1,17 +1,17 @@
-2025-04-13 21:29:16.921379 - Received CBT.V508.FILE643.PDS from FILE643.XMI 
-2025-04-13 21:29:16.922528 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$$$#DATE
-2025-04-13 21:29:16.922625 - Found $$$CPYRT.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$$$CPYRT
-2025-04-13 21:29:16.922721 - Found $$DOC.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$$DOC
-2025-04-13 21:29:16.922818 - Found $$MACDOC.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$$MACDOC
-2025-04-13 21:29:16.922900 - Found $ALTINST.jcl (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$ALTINST
-2025-04-13 21:29:16.922989 - Found @FILE643.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/@FILE643
-2025-04-13 21:29:16.923066 - Found CALENDAR.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/CALENDAR
-2025-04-13 21:29:16.923252 - Found PSMUPDTE.jcl (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/PSMUPDTE
-2025-04-13 21:29:16.923347 - Found RUNLIB.xmi (application/xmit) in CBT.V508.FILE643.PDS, moved to PDS/RUNLIB.xmi
-2025-04-13 21:29:16.935560 - Received SBGOLOB.PSM.RUNLIB from RUNLIB.xmi 
-2025-04-13 21:29:16.936037 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PDSLOAD
-2025-04-13 21:29:16.936140 - Found PSU001.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PSU001
-2025-04-13 21:29:16.936216 - Found PSU002.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PSU002
-2025-04-13 21:29:16.936280 - Found PSU003.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PSU003
-2025-04-13 21:29:16.936338 - Found PSU004.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PSU004
-2025-04-13 21:29:16.936628 - Found SRCLIB.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/SRCLIB
+2025-04-15 04:12:06.466055 - Received CBT.V508.FILE643.PDS from FILE643.XMI 
+2025-04-15 04:12:06.467477 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:12:06.467712 - Found $$$CPYRT.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$$$CPYRT
+2025-04-15 04:12:06.468071 - Found $$DOC.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$$DOC
+2025-04-15 04:12:06.468471 - Found $$MACDOC.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$$MACDOC
+2025-04-15 04:12:06.468673 - Found $ALTINST.jcl (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/$ALTINST
+2025-04-15 04:12:06.468898 - Found @FILE643.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/@FILE643
+2025-04-15 04:12:06.469076 - Found CALENDAR.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/CALENDAR
+2025-04-15 04:12:06.469726 - Found PSMUPDTE.jcl (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/PSMUPDTE
+2025-04-15 04:12:06.470039 - Found RUNLIB.xmi (application/xmit) in CBT.V508.FILE643.PDS, moved to PDS/RUNLIB.xmi
+2025-04-15 04:12:06.481140 - Received SBGOLOB.PSM.RUNLIB from RUNLIB.xmi 
+2025-04-15 04:12:06.481766 - Found PDSLOAD.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PDSLOAD
+2025-04-15 04:12:06.481934 - Found PSU001.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PSU001
+2025-04-15 04:12:06.482108 - Found PSU002.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PSU002
+2025-04-15 04:12:06.482292 - Found PSU003.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PSU003
+2025-04-15 04:12:06.482448 - Found PSU004.bin (application/octet-stream) in SBGOLOB.PSM.RUNLIB, moved to RUNLIB/PSU004
+2025-04-15 04:12:06.483461 - Found SRCLIB.txt (text/plain) in CBT.V508.FILE643.PDS, moved to PDS/SRCLIB
